@@ -1,0 +1,9 @@
+Proyecto desarrollado sobre Java
+
+201114339	Antonio Avalos	Responsable de Integracion
+200924518	Anibal Gramajo	Dev: Factorial
+201122826	Ivan Lopez	Dev: Potencia
+201212192	Hugo Boiton	Dev: Raiz Cuadrada
+201314510	William Valladares	Dev: Potencia Cubo
+201403935	Kevin Esquivel	Dev: Raiz Cubica
+201114339	Antonio Avalos	Dev: HotFix No divir entre cero
